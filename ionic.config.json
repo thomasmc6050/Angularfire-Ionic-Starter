@@ -1,4 +1,6 @@
 {
-  "name": "My App",
-  "app_id": ""
+  "name": "Gothic Town Crier",
+  "app_id": "",
+  "integrations": {},
+  "type": "ionic1"
 }

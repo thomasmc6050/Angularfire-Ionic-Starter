@@ -30,11 +30,11 @@ var ionicApp = angular.module('app', [
 
   // TODO: Change these to match your own application configuration
   var config = {
-    apiKey: "AIzaSyAcgOtX8dqawOK7Vuu4ax3fiFg46KhoOKY",
-    authDomain: "angularfire-ionic-starter.firebaseapp.com",
-    databaseURL: "https://angularfire-ionic-starter.firebaseio.com",
-    storageBucket: "angularfire-ionic-starter.appspot.com",
-    messagingSenderId: "210927824483"
+    apiKey: "AIzaSyC1BwOcsUB20AsY4EAzAB3YaXQSF08C4Rw",
+    authDomain: "gothic-larp.firebaseapp.com",
+    databaseURL: "https://gothic-larp.firebaseio.com",
+    storageBucket: "gothic-larp.appspot.com",
+    messagingSenderId: "981272149320"
   };
   firebase.initializeApp(config);
 })
